@@ -4,12 +4,16 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/hassanatuah/AndroidStudioProjects/Dashboard/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.1295" />
+        <entry key="..\:/Users/hassanatuah/AndroidStudioProjects/Dashboard/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1265" />
+        <entry key="..\:/Users/hassanatuah/AndroidStudioProjects/Dashboard/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1265" />
         <entry key="..\:/Users/hassanatuah/AndroidStudioProjects/Dashboard/app/src/main/res/drawable/ic_lock.xml" value="0.1295" />
         <entry key="..\:/Users/hassanatuah/AndroidStudioProjects/Dashboard/app/src/main/res/drawable/ic_person.xml" value="0.1295" />
         <entry key="..\:/Users/hassanatuah/AndroidStudioProjects/Dashboard/app/src/main/res/drawable/ic_wave.xml" value="0.1295" />
         <entry key="..\:/Users/hassanatuah/AndroidStudioProjects/Dashboard/app/src/main/res/drawable/round_bg.xml" value="0.1295" />
         <entry key="..\:/Users/hassanatuah/AndroidStudioProjects/Dashboard/app/src/main/res/drawable/round_border.xml" value="0.1295" />
+        <entry key="..\:/Users/hassanatuah/AndroidStudioProjects/Dashboard/app/src/main/res/layout/activity_home.xml" value="0.16304347826086957" />
         <entry key="..\:/Users/hassanatuah/AndroidStudioProjects/Dashboard/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/hassanatuah/AndroidStudioProjects/Dashboard/app/src/main/res/layout/activity_newuser.xml" value="0.2" />
       </map>
     </option>
   </component>
